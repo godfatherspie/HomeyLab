@@ -1,0 +1,14 @@
+# VM disks and ISOs
+*.qcow2
+*.iso
+*.img
+
+# Secrets
+*.key
+*privatekey*
+id_*
+*.pem
+.env
+
+# Misc
+*.swp
