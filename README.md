@@ -16,13 +16,12 @@ First Order of Business-
 
 
   Addressing of servers:
-  ---------------------------------------------------------
+  _________________________________________________________
   Network     |    Subnet          |    Router's Address  |
-  ---------------------------------------------------------
   lab-users   |    10.10.10.0/24   |    10.10.10.1        |
   lab-servers |    10.10.20.0/24   |    10.10.20.1        |
   lab-mgmt    |    10.10.30.0/24   |    10.10.30.1        |
-  ---------------------------------------------------------
+  _________________________________________________________
 
 12/11/26 - (Tenatative) 
   1. Actually set up the servers and make use of Debian netinst to use as minimal resources as possible to make up for the amount of VM's used.
