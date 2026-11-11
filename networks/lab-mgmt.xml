@@ -1,0 +1,7 @@
+<network>
+  <name>lab-mgmt</name>
+  <uuid>1efc9d36-5139-4d81-be8f-3e036d649c3c</uuid>
+  <bridge name='virbr-mgmt' stp='on' delay='0'/>
+  <mac address='52:54:00:9b:fb:13'/>
+</network>
+

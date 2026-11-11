@@ -1,0 +1,7 @@
+<network>
+  <name>lab-servers</name>
+  <uuid>b91a8cf9-2142-4a4f-af1f-c22e12ac540a</uuid>
+  <bridge name='virbr-servers' stp='on' delay='0'/>
+  <mac address='52:54:00:4c:57:45'/>
+</network>
+
